@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="eb769418-58bd-4f1f-b4b4-f736d887c417" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="BM.Extranet.ClaimsProvider.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="BM.Extranet.ClaimsProvider_FarmFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

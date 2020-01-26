@@ -1,0 +1,18 @@
+E:\Srikanth\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.csprojResolveAssemblyReference.cache
+E:\Srikanth\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\BM.Extranet.ClaimsProvider.dll
+E:\Srikanth\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\BM.Extranet.ClaimsProvider.pdb
+E:\Srikanth\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.dll
+E:\Srikanth\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.pdb
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\BM.Extranet.ClaimsProvider.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\BM.Extranet.ClaimsProvider.pdb
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.IdentityModel.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.SharePoint.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.Web.Administration.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\bin\Debug\Microsoft.SharePoint.xml
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.csprojResolveAssemblyReference.cache
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.dll
+E:\Personal\Work\Tenant - Copy\Tenant\BM.Extranet.ClaimsProvider\BM.Extranet.ClaimsProvider\obj\Debug\BM.Extranet.ClaimsProvider.pdb

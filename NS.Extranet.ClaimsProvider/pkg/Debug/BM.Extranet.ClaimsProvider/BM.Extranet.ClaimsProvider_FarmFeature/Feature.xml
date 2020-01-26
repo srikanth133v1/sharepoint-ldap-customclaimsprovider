@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="BM.Extranet.ClaimsProvider Feature" AlwaysForceInstall="TRUE" Id="2b5648de-d0c2-45d8-9b65-cdbe4ac2ae8c" ReceiverAssembly="BM.Extranet.ClaimsProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c068a4c032c13f3" ReceiverClass="BM.Extranet.ClaimsProvider.Features.FarmFeature.FarmFeatureEventReceiver" Scope="Farm"></Feature>
